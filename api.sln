@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{5D576574-5C01-4723-8D25-E273D1313F08}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{03EC18CA-E7FB-47C9-B46D-E2D168D017C6}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{DE4F3012-5AB7-45AB-8E9D-85CEDFFE99AF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{BEF990F9-C193-4546-A31B-B85B8EFB480F}"
@@ -35,18 +33,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6CEE5BAF-9786-409F-B6C0-BD7ADFC8347D} = {BEF990F9-C193-4546-A31B-B85B8EFB480F}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://wulongxiaoyi.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Common\\Common.csproj
-		SccProjectTopLevelParentUniqueName1 = api.sln
-		SccProjectName1 = Common
-		SccLocalPath1 = Common
-		SccProjectUniqueName2 = api\\api.csproj
-		SccProjectName2 = api
-		SccLocalPath2 = api
 	EndGlobalSection
 EndGlobal
