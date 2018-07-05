@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Models", "Domain\Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.IService", "Domain\Domain.IService\Domain.IService.csproj", "{A5696B90-6DC4-47C3-80E0-A6B54ED58EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.IRespository", "Domain\Domain.Respository\Domain.IRespository.csproj", "{4135DBA9-A422-4412-85C1-CE525AFFE42C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,10 +41,6 @@ Global
 		{A5696B90-6DC4-47C3-80E0-A6B54ED58EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5696B90-6DC4-47C3-80E0-A6B54ED58EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5696B90-6DC4-47C3-80E0-A6B54ED58EAE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4135DBA9-A422-4412-85C1-CE525AFFE42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4135DBA9-A422-4412-85C1-CE525AFFE42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4135DBA9-A422-4412-85C1-CE525AFFE42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4135DBA9-A422-4412-85C1-CE525AFFE42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +49,5 @@ Global
 		{6CEE5BAF-9786-409F-B6C0-BD7ADFC8347D} = {BEF990F9-C193-4546-A31B-B85B8EFB480F}
 		{92EC7F75-B336-4761-A140-FCB92FCF21F5} = {5D576574-5C01-4723-8D25-E273D1313F08}
 		{A5696B90-6DC4-47C3-80E0-A6B54ED58EAE} = {5D576574-5C01-4723-8D25-E273D1313F08}
-		{4135DBA9-A422-4412-85C1-CE525AFFE42C} = {5D576574-5C01-4723-8D25-E273D1313F08}
 	EndGlobalSection
 EndGlobal
