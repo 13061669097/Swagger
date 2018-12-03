@@ -16,7 +16,7 @@ namespace api.Controllers
         /// </summary>
         /// <param name="str"></param>
         [Route("void/test/{str}")]
-        public bool Test(string str)
+        public bool GetTest(string str)
         {
             //object param = null;
             //string json = param == null ? "" : param.ToJson();

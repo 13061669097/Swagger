@@ -11,6 +11,9 @@ using System.Web.Mvc;
 
 namespace api.App_Start
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class IocConfig
     {
         public static void Configure()
